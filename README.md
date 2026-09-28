@@ -29,3 +29,13 @@ Welcome to the Pediatric Cancer Awareness and Resource Guide. This public-facing
 
 * 🔗 **[American Cancer Society](https://cancer.org)** — <span style="color: #e0e0e0;">National guidance on pediatric diagnoses.</span>
 * 🔗 **[St. Jude Research Guide](https://stjude.org)** — <span style="color: #e0e0e0;">Leading interactive clinical trials and family support indexes.</span>
+
+<style>
+    body {
+        background-image: url('./bg.jpg') !important;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+</style>
